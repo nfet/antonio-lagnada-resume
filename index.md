@@ -60,7 +60,7 @@ Docker, Docker Compose, Amazon Web Services, Trello, Jira, Confluence
 
 # MOST RECENT EXPERIENCE
 
-### Senior Software Engineer, Expedia Group, Seattle, Wa (Jun 2013 to May 2021)
+### Senior Software Engineer, Expedia Group, Seattle, WA (Jun 2013 to May 2021)
 
 ### EG Loyalty (Apr 2019 to May 2021)
 
