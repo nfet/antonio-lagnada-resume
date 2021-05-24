@@ -3,9 +3,7 @@
 
 # EXPERTISE
 
-A highly-motivated seasoned Senior Software Engineer specializing in the design, development and support of 
-enterprise-wide client/server systems with a focus is on agile, test-driven, xp, object-oriented, 
-open source, and clean coding java technologies.
+>A highly-motivated seasoned Senior Software Engineer specializing in the design, development and support of enterprise-wide client/server systems with a focus is on agile, test-driven, xp, object-oriented, open source, and clean coding java technologies.
 
 # EDUCATION
 B.S. Electrical Engineering (1997), Microprocessor Design
@@ -64,9 +62,10 @@ Docker, Docker Compose, Amazon Web Services, Trello, Jira, Confluence
 
 ### EG Loyalty (Apr 2019 to May 2021)
 
->An senior member of multiple pods responsible for the architecture, design, development and support of EG Loyalty enabling travel to Expedia Partners.
+>An senior member of a team with multiple pods responsible for the architecture, design, development and support of EG Loyalty enabling travel to Expedia Partners.
 
-- Pod leader and Senior member and architect in collaboration with various groups and business product owners
+- Pod leader to a team of four developers
+- Senior member and architect in collaboration with various groups and business product owners
 - Influence pod and teams across in building the partner loyalty travel platform
 - Mentor peers on the team and help build effective agile, test-driven, and clean-coding practices
 - Work closely with principal engineers for architectural reviews and sign-off
