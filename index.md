@@ -60,14 +60,11 @@ Docker, Docker Compose, Amazon Web Services, Trello, Jira, Confluence
 
 # MOST RECENT EXPERIENCE
 
-### SENIOR SOFTWARE ENGINEER, EXPEDIA GROUP, SEATTLE, WA (Jun 2013 to May 2021)
+### Senior Software Engineer, Expedia Group, Seattle, Wa (Jun 2013 to May 2021)
 
 ### EG Loyalty (Apr 2019 to May 2021)
 
-An senior member of multiple pods responsible for the architecture, design, development and support of 
-EG Loyalty enabling travel to Expedia Partners.
-
-Activities:
+>An senior member of multiple pods responsible for the architecture, design, development and support of EG Loyalty enabling travel to Expedia Partners.
 
 - Pod leader and Senior member and architect in collaboration with various groups and business product owners
 - Influence pod and teams across in building the partner loyalty travel platform
@@ -76,12 +73,7 @@ Activities:
 
 ### Partner Services / Private Label Sites (Sep 2017 to Apr 2019)
 
-A senior member of a team responsible for the architecture and design several projects including but not limited to:
-
-- Steam-lining of Mail and Itinerary Pages for Private Label Sites
-- Commissions Calculator
-
-Activities:
+>A senior member of a team responsible for the architecture and design several projects including but not limited to:
 
 - mentored engineers on the team in building technical solutions that meets business needs
 - developed a suite of server-less and UI solutions for managing partners, generating reports and delivery of 
