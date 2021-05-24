@@ -82,13 +82,12 @@ reports to travel loyalty partners
 - an influencer of clean coding and test-driven technologies
 - a java and IntelliJ enthusiast
 
-##### Projects
-
 ### Online Marketing Group – (Jan 2014 to Sep 2017)
 
 #### Deep Linking Fundamentals
 
-- Complete re-design of a legacy deep-linking engine to spring-framework with emphasis of test-driven development
+> Complete re-design of a legacy deep-linking engine to spring-framework with emphasis of test-driven development
+
 - Designed a deep-linking framework and integration test framework using Spring MVC Test and AssertJ custom fluent assertions
 - Incremental deployment and monitoring of the new high-traffic deep-links to production
 - Coached peers and cross-teams in Test Driven Development, Clean Coding, and XP Pair Programming
@@ -97,29 +96,31 @@ reports to travel loyalty partners
 
 #### Data Analytics of Marketing Tags
 
-- Provided near-real-time and offline solutions for Marketing for the analysis of all marketing tags data across all Expedia Group pages
+>Provided near-real-time and offline solutions for Marketing for the analysis of all marketing tags data across all Expedia Group pages
+
 - Published tag data to Elastic Search and Kibana for near-real-time data analytics.
 - Utilized AWS S3 for Apache Spark offline queries
  
 #### Marketing Code Generator Library (Enigma)
 
-- Worked with cross-marketing-teams (SEM and META) and provided a design for a strategy-based
+>Worked with cross-marketing-teams (SEM and META) and provided a design for a strategy-based
+
 - A marketing code generator library to be utilized across multiple marketing teams
 - Implemented the java library using test-driven design and development
  
 #### Hotel Data Static Feed Re-design
 
-- Completed re-design of a batch processing of hotel static feed data for external business partners
+>Completed re-design of a batch processing of hotel static feed data for external business partners
+
 - utilizing Spring Batch
 - Implemented exponential re-tries for error-free batch processing of data
 
 #### Travelocity Marketing Tags On-boarding
 
-- Collaborated with Business Marketing to on-board affiliate marketing tags
+>Collaborated with Business Marketing to on-board affiliate marketing tags
 - Designed, developed, tested, and deployed affiliate marketing tags to all Travelocity brand pages
 
 #### Marketing Dev Tools Chrome Extension
 
-- Developed a chrome extension on my own time for identifying, viewing, and timing marketing tags within 
-Expedia Group sites (TODO: attach chrome URL here)
+>Developed a chrome extension on my own time for identifying, viewing, and timing marketing tags within Expedia Group sites (TODO: attach chrome URL here)
  
