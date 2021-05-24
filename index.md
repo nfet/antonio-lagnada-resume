@@ -60,9 +60,9 @@ Docker, Docker Compose, Amazon Web Services, Trello, Jira, Confluence
 
 # MOST RECENT EXPERIENCE
 
-### SENIOR SOFTWARE ENGINEER, EXPEDIA PARTNER SERVICES, BELLEVUE, WA (Jun 2013 to Present)
+### SENIOR SOFTWARE ENGINEER, EXPEDIA PARTNER SERVICES, BELLEVUE, WA (Jun 2013 to May 2021)
 
-### Partner Loyalty (Apr 2019 to Present)
+### Partner Loyalty (Apr 2019 to May 2021)
 
 An senior member of multiple pods responsible for the architecture, design, development and support of 
 Partner Loyalty Platform enabling travel to Expedia Partners.
