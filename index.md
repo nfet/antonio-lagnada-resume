@@ -10,11 +10,11 @@
 
 >A highly-motivated seasoned Senior Software Engineer specializing in the design, development and support of enterprise-wide client/server systems with a focus is on agile, test-driven, XP programming practicies, object-oriented, open source, and clean coding java technologies.
 
-# EDUCATION
+# Education
 B.S. Electrical Engineering (1997), Microprocessor Design
 University of Minnesota Institute of Technology, Minneapolis Campus
 
-# CORE STRENGTHS
+# Core Strengths
 
 - Agile Software Development Process (Scrum & Kanban)
 - IntelliJ, Java, and Open Source Software Evangelist
@@ -24,7 +24,7 @@ University of Minnesota Institute of Technology, Minneapolis Campus
 - ReSTful and SOA Services Development
 - Product Enhancement & Optimization
 
-# TECHNICAL SKILLS
+# Technical Skills
 
 ### Programming Languages
 
@@ -61,7 +61,7 @@ Docker, Docker Compose, Amazon Web Services, Trello, Jira, Confluence
 
 - Android & Chrome App Development; Raspberry Pi, Decentralized Block-chain Applications (DApps)
 
-# MOST RECENT EXPERIENCE
+# Most Recent Experience
 
 ### Senior Software Engineer, Expedia Group, Seattle, WA (Jun 2013 to May 2021)
 
