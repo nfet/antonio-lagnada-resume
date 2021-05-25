@@ -1,6 +1,6 @@
 ## Antonio Lagnada Resume
- - https://kapresoft.com
- - https://www.linkedin.com/in/lagnada
+ - [https://kapresoft.com](https://kapresoft.com)
+ - [https://www.linkedin.com/in/lagnada](https://www.linkedin.com/in/lagnada/)
 
 # EXPERTISE
 
