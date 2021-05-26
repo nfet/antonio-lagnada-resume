@@ -35,9 +35,8 @@ University of Minnesota Institute of Technology, Minneapolis Campus
 - JavaScript, Node JS, Python, Lua, Perl, Unix Shell Scripts, HTML, DOS, Win32 Scripts, Maven, Gradle/Groovy, NPM and 
 Ant Build Scripts, Spring Expression Language, FTL, Sitemesh, and Velocity Page Templates
 
-### Database
-- Teradata, MySQL/Aurora, Elastic Search, DynamoDB/NoSQL, Redis, AWS S3 Storage, PostgreSQL, Microsoft SQL Server, 
-Oracle, IBM DB2
+### Database and Storage
+-  MySQL/Aurora, Microsoft SQL, Teradata, Elastic Search, DynamoDB/NoSQL, Redis, AWS S3 Storage, PostgreSQL, Oracle, IBM DB2
 
 ### Operating Systems
 - Mac OS, Windows, Windows Subsystem Linux, Debian (Ubuntu, Raspbian), CentOS, Red Hat
@@ -116,7 +115,7 @@ reports to travel loyalty partners
 
 >Completed re-design of a batch processing of hotel static feed data for external business partners
 
-- utilizing Spring Batch
+- utilized Spring Batch
 - Implemented exponential re-tries for error-free batch processing of data
 
 #### Travelocity Marketing Tags On-boarding
