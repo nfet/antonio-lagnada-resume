@@ -69,11 +69,11 @@ Docker, Docker Compose, Amazon Web Services, Trello, Jira, Confluence
 
 >An senior member of Loyalty Team with multiple pods taking part in phases of software development life cycle (or SLDC) enabling travel to Expedia Partners
 
-- Pod leader to a team of four developers
-- Senior member and architect in regular collaboration with various groups and business product owners
-- Influence pod and teams across in develpment of the loyalty travel platform
-- Mentor peers on the team and help build effective agile, test-driven, and clean-coding practices
-- Work closely with principal engineers for architectural reviews and sign-off
+- pod leader to a team of four developers
+- senior member and architect in regular collaboration with various groups and business product owners
+- influenced pod and teams across in develpment of the loyalty travel platform
+- mentored peers on the team and help build effective agile, test-driven, and clean-coding practices
+- worked closely with principal engineers for architectural reviews and sign-off
 
 ### Partner Services / Private Label Sites (Sep 2017 to Apr 2019)
 
@@ -92,18 +92,18 @@ reports to travel loyalty partners
 
 > Complete re-design of a legacy deep-linking engine to spring-framework with emphasis of test-driven development
 
-- Designed a deep-linking framework and integration test framework using Spring MVC Test and AssertJ custom fluent assertions
-- Incremental deployment and monitoring of the new high-traffic deep-links to production
-- Coached peers and cross-teams in Test Driven Development, Clean Coding, and XP Pair Programming
-- Created Chef Deployment Scripts for Continuous Integration and Deployment to AWS Environment
-- Performed Scrum Agile Software Practices
+- designed and implemented a deep-linking framework and integration test framework using Spring MVC Test and AssertJ custom fluent assertions
+- incremental deployment and monitoring of the new high-traffic deep-links to production
+- coached peers and cross-teams in Test Driven Development, Clean Coding, and XP Pair Programming
+- created Chef Deployment Scripts for Continuous Integration and Deployment to AWS Environment
+- performed Scrum Agile Software Practices
 
 #### Data Analytics of Marketing Tags
 
 >Provided near-real-time and offline solutions for Marketing for the analysis of all marketing tags data across all Expedia Group pages
 
-- Published tag data to Elastic Search and Kibana for near-real-time data analytics.
-- Utilized AWS S3 for Apache Spark offline queries
+- published tag data to Elastic Search and Kibana for near-real-time data analytics.
+- utilized AWS S3 for Apache Spark offline queries
  
 #### Marketing Code Generator Library (Enigma)
 
