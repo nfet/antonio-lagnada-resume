@@ -127,5 +127,7 @@ reports to travel loyalty partners
 
 #### Marketing Dev Tools Chrome Extension
 
->Developed a chrome extension on my own time for identifying, viewing, and timing marketing tags within Expedia Group sites (TODO: attach chrome URL here)
- 
+>Developed a chrome extension on my own time for identifying, viewing, and timing marketing affiliate tags within Expedia Group sites
+
+- enabled peer developers to demonstrate, view and debug marketing tags in chrome browser
+
