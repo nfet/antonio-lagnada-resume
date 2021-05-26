@@ -67,11 +67,11 @@ Docker, Docker Compose, Amazon Web Services, Trello, Jira, Confluence
 
 ### EG Loyalty (Apr 2019 to May 2021)
 
->An senior member of a team with multiple pods responsible for the architecture, design, development and support of EG Loyalty enabling travel to Expedia Partners.
+>An senior member of Loyalty Team with multiple pods taking part in phases of software development life cycle (or SLDC) enabling travel to Expedia Partners
 
 - Pod leader to a team of four developers
-- Senior member and architect in collaboration with various groups and business product owners
-- Influence pod and teams across in building the partner loyalty travel platform
+- Senior member and architect in regular collaboration with various groups and business product owners
+- Influence pod and teams across in develpment of the loyalty travel platform
 - Mentor peers on the team and help build effective agile, test-driven, and clean-coding practices
 - Work closely with principal engineers for architectural reviews and sign-off
 
@@ -122,6 +122,7 @@ reports to travel loyalty partners
 #### Travelocity Marketing Tags On-boarding
 
 >Collaborated with Business Marketing to on-board affiliate marketing tags
+
 - Designed, developed, tested, and deployed affiliate marketing tags to all Travelocity brand pages
 
 #### Marketing Dev Tools Chrome Extension
